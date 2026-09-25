@@ -7,6 +7,8 @@ End-to-end E-Commerce Sales &amp; Customer Analytics project using Python, SQL, 
 
 ---
 
+https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics
+
 ## 📌 Table of Contents
 
 * [Overview](#overview)
